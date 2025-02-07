@@ -100,7 +100,7 @@ You can check out the article in Towards Data Science [here](https://medium.com/
 – Key Skills: study design, literature review, experimental research, statistical analysis, scientific writing
 
 
-## Fun Facts
+## Fun Facts ⚡
 -I share my photography and love for vintage lenses on [Flickr](https://www.flickr.com/photos/38997291@N08/) and [Pixels](diana-rozenshteyn.pixels.com/)
 
 -My original knitting design patterns and projects can be found on [Ravelry](www.ravelry.com/designers/diana-rozenshteyn)
