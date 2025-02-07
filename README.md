@@ -90,7 +90,7 @@ You can check out the article in Towards Data Science [here](https://medium.com/
 
 – Key Skills: study design, data processing and cleaning, dataset creation, Python, Pandas, Jupyter Lab, scientific writing 
 
-You can check out the article in Towards Data Science [here](https://medium.com/towards-data-science/building-a-pubmed-dataset-b1267408417c)
+You can check out the article in Towards Data Science [here](https://medium.com/@dianarozenshteyn/how-to-parse-pubmed-search-text-files-using-data-element-fields-1bb9d416b4cd)
 
 
 ### MS in Toxicology Thesis 
