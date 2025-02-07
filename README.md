@@ -103,4 +103,4 @@ You can check out the article in Towards Data Science [here](https://medium.com/
 ## Fun Facts ⚡
 -I share my photography and love for vintage lenses on [Flickr](https://www.flickr.com/photos/38997291@N08/) and [Pixels](https://diana-rozenshteyn.pixels.com/)
 
--My original knitting design patterns and projects can be found on [Ravelry](www.ravelry.com/designers/diana-rozenshteyn)
+-My original knitting design patterns and projects can be found on [Ravelry](https://www.ravelry.com/designers/diana-rozenshteyn)
