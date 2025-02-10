@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a recent graduate with a Master’s degree in Computer Science and 18 years of experience in biotech research,
+I'm a recent graduate with a Master’s degree in Computer Science and 20 years of experience in biotech research,
 seeking to transition to a Data Scientist and Computer Scientist role. Eager to apply a strong foundation in biological research,
 along with newly acquired skills in programming, data analysis, and machine learning to solve complex challenges in data
 science. Bringing a unique combination of biotech expertise and advanced data science techniques to create innovative
