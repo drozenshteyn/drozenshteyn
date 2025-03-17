@@ -13,6 +13,7 @@ data-driven insights and contribute to the growth and success of data-driven tea
 
 - [LinkedIn](https://linkedin.com/in/diana-rozenshteyn-012297b/)
 - [Medium](https://medium.com/@dianarozenshteyn)
+- [Tableau](https://public.tableau.com/app/profile/diana.rozenshteyn/vizzes)
 
 
 ## My Skills 🧠
