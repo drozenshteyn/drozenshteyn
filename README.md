@@ -28,7 +28,7 @@ data-driven insights and contribute to the growth and success of data-driven tea
 - Python, LaTeX, SQL
 
 ### Tools & Libraries
-- Pandas, Jupyter Lab, Plotly, Matplotlib, Ipywidgets, Seaborn, VS Code, Overleaf
+- Pandas, Jupyter Lab, Plotly, Matplotlib, Ipywidgets, Seaborn, VS Code, Overleaf, Tableau
 
 ### Bioinformatics
 - BLAST, FASTA, MAFFT, MView, Velvet
