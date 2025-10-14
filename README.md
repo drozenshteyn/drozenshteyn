@@ -47,6 +47,10 @@ data-driven insights and contribute to the growth and success of data-driven tea
 
 You can check out the repository [here](https://github.com/drozenshteyn/san-diego-in-bloom)
 
+### [Tableau Visualizations ](https://public.tableau.com/app/profile/diana.rozenshteyn/vizzes)
+
+- Key Skills: Tableau, statistical analysis
+
 ### [MS in Computer Science Thesis](https://github.com/drozenshteyn/Master-s-Thesis)
 
 – Research Topic: ”Factors Associated with Impactful Scientific Publications in NIH-Funded Heart Disease Research”
