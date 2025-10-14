@@ -25,10 +25,13 @@ data-driven insights and contribute to the growth and success of data-driven tea
 - Statistical & Quantitative Analysis
 
 ### Languages
-- Python, LaTeX, SQL
+- Python, JavaScript, HTML, CSS, LaTeX, SQL
 
 ### Tools & Libraries
-- Pandas, Jupyter Lab, Plotly, Matplotlib, Ipywidgets, Seaborn, VS Code, Overleaf, Tableau
+- Pandas, Jupyter Lab, Plotly, Matplotlib, Ipywidgets, Seaborn, VS Code, Overleaf, GitHub, Tableau
+
+### Web
+- Responsive Web Design, SEO, GitHub Pages
 
 ### Bioinformatics
 - BLAST, FASTA, MAFFT, MView, Velvet
