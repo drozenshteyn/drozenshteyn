@@ -39,6 +39,14 @@ data-driven insights and contribute to the growth and success of data-driven tea
 
 ## Featured Projects 💻
 
+### [San Diego in Bloom – Personal Photography Website ](https://sandiegoinbloom.com/index.html)
+
+– Built and deployed a responsive website on GitHub Pages showcasing my original San Diego nature photography
+
+– Key Skills: HTML, CSS, JavaScript, Git/GitHub, SEO, responsive web design
+
+You can check out the repository [here](https://github.com/drozenshteyn/san-diego-in-bloom)
+
 ### [MS in Computer Science Thesis](https://github.com/drozenshteyn/Master-s-Thesis)
 
 – Research Topic: ”Factors Associated with Impactful Scientific Publications in NIH-Funded Heart Disease Research”
