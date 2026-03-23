@@ -65,6 +65,15 @@ statistical analysis, Python, Pandas, Matplotlib, LaTeX, Overleaf, Jupyter Lab, 
 
 You can check out the repository [here](https://github.com/drozenshteyn/Master-s-Thesis)
 
+### [Protein-Protein Interaction Network Analysis (Alzheimer's Example) ](https://github.com/drozenshteyn/Protein-Protein-Interaction-Network-Analysis-Alzheimer-s-Example-)
+
+-Research Topic: This project demonstrates a practical workflow for analyzing protein–protein interaction (PPI) networks using publicly available bioinformatics databases and Python tools.
+
+– Key Skills: Python, Pandas, networkx, matplotlib, STRING database, UniProt database
+
+You can check out the repository [here](https://github.com/drozenshteyn/Protein-Protein-Interaction-Network-Analysis-Alzheimer-s-Example-)
+
+
 ### [Computational Genomics and Bioinformatics ](https://github.com/drozenshteyn/Parvalbumin-Evolutionary-Distance-From-Human-Homologs-and-Allergenicity./tree/main)
 
 -Research Topic: Parvalbumin: Evolutionary Distance From Human Homologs and Allergenicity
