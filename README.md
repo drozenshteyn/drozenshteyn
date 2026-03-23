@@ -34,7 +34,7 @@ data-driven insights and contribute to the growth and success of data-driven tea
 - Responsive Web Design, SEO, GitHub Pages
 
 ### Bioinformatics
-- BLAST, FASTA, MAFFT, MView, Velvet
+- BLAST, FASTA, MAFFT, MView, Velvet, UniProt, STRING
 
 ### Cloud & OS
 - AWS, Linux
